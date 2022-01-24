@@ -10,7 +10,7 @@ The second is to scrap the data from the website. The outcome of this method is 
 
 The third method is to use Excel to scrap the data. This proved more helpful that the first two and is easier to use as it does not require any coding. The pictures of the process are provided in the images folder.
 
-The fourth method is to scrap the data directly by selecting abd copying the data from the website. This is the easiest and most efficient as no codes are needed and the copied data is saved directly in Excel for further formatting.
+The fourth method is to scrap the data directly by selecting and copying the data from the website. This is the easiest and most efficient as no codes are needed and the copied data is saved directly in Excel for further formatting.
 
 After scrapping the data with any of the methods mentined above, then, they are formatted for preparing visuals. For me, the formatting is based on the variables of interetsts and the formating codes are also available.
 
